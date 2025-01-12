@@ -51,7 +51,7 @@ Canva：
     <a href="https://www.linkedin.com/in/
 silvia-sousa-ba7a2531a/">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://https://www.instagram.com/silviafagundess.exe/">
+    <a href="https://https://www.instagram.com/silviafagundes.exe/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
