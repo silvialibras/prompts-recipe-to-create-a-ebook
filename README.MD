@@ -20,9 +20,7 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  |Prompt: Crie um título de um e-book sobre o tema Com a análise de dados e a inteligência artificial (IA) o que as empresas podem tirar a partir de seus dados, explorando desafios e oportunidades nos negócios, o e-book é do nicho de negócios, o título deve ser épico e curto, e tenha uma temática suave e esclarecedora, liste 10 exemplos de títulos bem atualizados e interessantes ao leitor.|
 | conteúdo | Prompt: Faça um texto para e-book, sobre Negócios Inteligentes: O Poder da IA na Era dos Dados, listando os principais bancos de dados, utilizando técnicas com (ressumo, roteiro e regras) e a habilidade de atuação dos chatbot como gestor de negócios visionário. O título é: Negócios Inteligentes: O Poder da IA na Era dos Dados. {REGRAS} > Explique de maneira simples e bem didática, para iniciantes. > Deixe o texto enxuto > Sempre traga prompts em contextos reais > Sempre deixe um título sugestivo por tópico.|
-
 | Frases rodapés | Prompt: Gere frases motivacionais para o rodapé de acordo com os títulos.|
-
 | Conclusão | Prompt: Faça uma conclusão mais robusta.|
 
 
