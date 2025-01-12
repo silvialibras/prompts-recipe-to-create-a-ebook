@@ -1,4 +1,5 @@
-# Projeto EBOOK - Negócios Inteligentes - O Poder da Ia na Era dos Dados
+# Projeto EBOOK -        Negócios Inteligentes 
+                      O Poder da Ia na Era dos Dados
 
 > Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
