@@ -48,8 +48,8 @@ Canva：
     &nbsp&nbsp&nbsp
     <a href="https://github.com/felipeAguiarCode">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/
+silvia-sousa-ba7a2531a/">LinkedIn</a>
 &nbsp;|&nbsp;
     <a href="https://www.instagram.com/felipeaguiar.exe/">
     Instagram</a>
