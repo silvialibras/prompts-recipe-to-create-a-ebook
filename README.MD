@@ -3,8 +3,7 @@
 > Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/silvialibras/prompts-recipe-to-create-a-ebook/blob/main/Desafio%20-%20Ebook%20-%20Neg%C3%B3cios%20Inteligentes.%20O%20Poder%20da%20IA%20na%20Era%20dos%20Dados.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
