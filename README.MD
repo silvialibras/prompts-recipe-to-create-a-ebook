@@ -60,4 +60,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Silvia Fagundes](https://github.com/silvialibrasCode)
+⌨️ com 💜 por [Silvia Fagundes](https://github.com/silvialibras)
