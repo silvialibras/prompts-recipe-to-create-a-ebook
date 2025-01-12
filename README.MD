@@ -3,11 +3,6 @@
 seguem abaixo.
 
 
-
-Capa - Prompt: Crie uma imagem de um computador Laptop com um gráfico de negócios, alta tecnologia com raios de luz rosado, nos cantos imagens espelhadas
-
-
-
 <a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
