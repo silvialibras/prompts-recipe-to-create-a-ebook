@@ -46,7 +46,7 @@ Canva：
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/silvialibras">
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/
 silvia-sousa-ba7a2531a/">LinkedIn</a>
