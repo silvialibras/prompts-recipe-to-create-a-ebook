@@ -44,7 +44,7 @@ Canva：
       width=80 
       src="https://avatars.githubusercontent.com/u/193035748?v=4&size=64"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspSilvia Fagundes de Sousa<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/silvialibras">
     GitHub</a>&nbsp;|&nbsp;
