@@ -1,7 +1,6 @@
-,0# Projeto EBOOK - "Negócios Inteligentes" O Poder da IA na Era dos Dados
+# Projeto EBOOK - "Negócios Inteligentes" O Poder da IA na Era dos Dados
 
-> Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+> Projeto com o objetivo de gerar um ebook digital de como utilizar os prompts para gerar negócios, integrar os principais bancos de dados com a IA, utilizando grandes volumes de dados, para identificar oportunidades, prever tendências e otimizar processos. 
 
 <a href="https://github.com/silvialibras/prompts-recipe-to-create-a-ebook/blob/main/Desafio%20-%20Ebook%20-%20Neg%C3%B3cios%20Inteligentes.%20O%20Poder%20da%20IA%20na%20Era%20dos%20Dados.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
